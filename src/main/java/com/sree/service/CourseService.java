@@ -1,6 +1,6 @@
-package com.javatechie.service;
+package com.sree.service;
 
-import com.javatechie.dto.Course;
+import com.sree.dto.Course;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

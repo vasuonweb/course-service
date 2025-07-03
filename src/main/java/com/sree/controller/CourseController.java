@@ -1,7 +1,7 @@
-package com.javatechie.controller;
+package com.sree.controller;
 
-import com.javatechie.dto.Course;
-import com.javatechie.service.CourseService;
+import com.sree.dto.Course;
+import com.sree.service.CourseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
