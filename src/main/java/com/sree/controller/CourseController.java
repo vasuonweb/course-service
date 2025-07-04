@@ -60,11 +60,12 @@ public class CourseController {
 //changes  
 //ma
 
-
+ /*
     @GetMapping("/health")
     public String healthCheck() {
         return "UP";
     }
+    */
 
 
 
